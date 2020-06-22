@@ -1,0 +1,32 @@
+-Liste de fonctionnalités 
+-Users Story
+-Critères d’acceptation
+-Choix techniques
+-Modele de fonctionnement fiable
+-Vocabulaire du domaine métier 
+-diagramme de classe.
+
+
+*Verification objectif atteint session mentorat
+*Rappel si aucune session effectué depuis un moment
+*Journal de bord
+*notification mentor/mentoré.
+
+Macrofonctionalité :
+
+Mise en relation mentor/mentoré
+Application onboarding.
+Gestion des sessions de mentorat.
+
+Vocabulaires metier
+
+*vocabulaire propre au secteur d'activité dans notre cas la tech.
+
+
+(le mentor à reçus une notif de mentorat apres verification du mentor selon ses caracteristiques si le profil s'accorde).
+
+
+revoir la nomenclature
+ajouter gestion de contrat
+et ajouter date et heure au niveau de la session
+Mettre a jour le cho8ix technique
